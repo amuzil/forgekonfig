@@ -1,0 +1,12 @@
+[versions]
+java = "17"
+kotlin = "1.8.0"
+
+[libraries]
+jackson-core = { group = "com.fasterxml.jackson.core", name = "jackson-databind", version = "2.14.1" }
+fourkoma = { group = "cc.ekblad", name = "4koma", version = "1.1.0" }
+
+[bundles]
+
+[plugins]
+shadow = { id = "com.github.johnrengelman.shadow", version = "7.1.2" }
