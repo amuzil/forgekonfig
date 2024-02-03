@@ -1,0 +1,8 @@
+[versions]
+
+[libraries]
+
+[bundles]
+
+[plugins]
+dokka = { id = "org.jetbrains.dokka", version = "1.7.20" }
